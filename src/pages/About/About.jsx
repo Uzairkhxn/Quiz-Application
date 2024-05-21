@@ -1,5 +1,5 @@
 import { Avatar, Box, chakra, Flex, Icon, SimpleGrid, useColorModeValue, } from '@chakra-ui/react';
-import adminAvatar from './src/Assets/admin.png.jpg';
+import adminAvatar from './src/Assets/admin.jpg';
 
 const testimonials = [
     {
